@@ -1,0 +1,6 @@
+Read file
+
+If you're coming here to try to understand more about the Get_Next_Line project, start off with the get_next_char.c file.
+It should give you a general understanding of the main items and terms you'll need to start to put your own ideas together for this project.
+
+After that, look for the other files to see how I chose to implement it.
